@@ -64,6 +64,8 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+    
+The P value for the Fisher test is very small, there is a difference between the Chi-Square number which was 15 vs. the df number which was 1. Therefore we reject the null hypothesis. The Fisher tests show that if you take the prevenitve drug you are 1.5 times likely to gets aids vs if you took the placebo. The data shows the drug is ineffective.   
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
